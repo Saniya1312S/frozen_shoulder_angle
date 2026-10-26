@@ -63,7 +63,7 @@ GitHub Pages can't run Streamlit, so keep the code on GitHub and deploy from it:
 
 **Streamlit Community Cloud**
 1. Push this folder to a GitHub repo (files must be in the repo **root**, not a sub-folder).
-2. Go to <[https://share.streamlit.io](https://frozenshoulderangle.streamlit.app/)>, sign in with GitHub, click **New app**.
+2. Go to <[LIVE DEMO](https://frozenshoulderangle.streamlit.app/)>, sign in with GitHub, click **New app**.
 3. Choose the repo, branch `main`, main file `app.py`.
 4. **Advanced settings → Python version → 3.11**, then **Deploy**.
 5. Paste the live link under "Live demo" below.
